@@ -1,0 +1,5 @@
+settings:
+  legacy:
+    force: false
+    interval: 0s
+schema: []
